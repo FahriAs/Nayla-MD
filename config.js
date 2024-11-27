@@ -3,43 +3,43 @@ let fs = require('fs')
 //=============『 Utama 』================== //
 global.Owner = {
 // use the phone number with the country code, for example Indonesia "62" America "1" etc
-"6289520306297": { // 6289520306297
-name: "Zevano",
+"6285927713672": { // 6285927713672
+name: "Fahri",
 isReport: true, // if true this number will send if user use command /report or /join
 isCreator: true, // if true this number will send if user use command /owner or /creator
 isDev: true
 }
 }
 global.prems = []
-global.mods = ["6283897390164"] // Want some help?
+global.mods = ["6285927713672"] // Want some help?
 
 //=============『 Info Owner 』================== //
-global.instagram = "https://instagram.com/zevoffc"
-global.github = "https://github.com/zevoffc"
+global.instagram = " "
+global.github = " "
 global.donasi = {
 dana: "gada",
-pulsa: "+62 895 2030 6297",
+pulsa: "+62 85927713672",
 gopay: "gada",
-saweria: "https://saweria.co/Scaff"
+saweria: "https://saweria.co/faahrixz"
 }
 
 //=============『 Info Bot 』================== //
-global.linkGC = ["https://chat.whatsapp.com/IS1V1LKUy16Fjd08uPtTdP"]
-global.botname = "NAYLA-BOTZ"
+global.linkGC = ["https://chat.whatsapp.com/IpKFuX1XlQCCZjx4EV61AN"]
+global.botname = "F-79-MD"
 global.sessionName = "nayla" // The Session name behind the .json example is nayla.json
 
 //=============『 Tampilan & Lainnya 』================== //
 global.ext = {
 title: "Sabar sedang di proses",
-body: "NayLa-B0TZ",
-thum: "https://telegra.ph/file/5859353a380d9b67be198.jpg"
+body: "F79-MD",
+thum: "https://files.catbox.moe/3brrkb.jpg"
 }
-global.wm = '© nayla'
+global.wm = '© F79'
 global.mess = {
 wm: global.wm,
 sukses: "Done Ya kawand",
 wait: "*❏ WAIT TUNGGU*",
-error: "*❏ ERROR CUK*",
+error: "*❏ ERROR!*",
     msg: {
 owner: "Maaf fitur ini hanya bisa digunakan oleh *Owner*",
 mods: "Maaf fitur ini hanya bisa digunakan oleh *Moderator*",
@@ -57,8 +57,8 @@ promote: "「 PROMOTE - DETECTED 」\nTarget : @user\nStatus : Member -> Admin\n
 demote: "「 DEMOTE - DETECTED 」\nTarget : @user\nStatus : Admin -> Member\nYAHAHA KASIAN KENA DEMOTE"
 }
 }
-global.packname = "NayLa-B0TZ"
-global.author = "Zevano"
+global.packname = "F79-MD"
+global.author = "FahriXz"
 global.mesreport = 50
 global.expc = 15
 
