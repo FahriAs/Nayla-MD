@@ -18,7 +18,7 @@ console.log(color(tampilTanggal, "pink"));
 console.log(color(tampilWaktu, "pink"));
 console.log(color(tampilHari, "pink"));
 
-CFonts.say('NayLa B0TZ', {
+CFonts.say('F79-MD', {
   font: 'simple',
   align: 'left',
   colors: ['cyan']
